@@ -1,4 +1,4 @@
-# POE1
+
 To run the project:
 1.Open Microsoft Sql Manager and open the sql script provided (ProjectDB1sql.sql)
 2.You can create your own server and Database (ProjectDB1) must be ran on that server
